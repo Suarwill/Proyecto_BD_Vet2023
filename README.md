@@ -7,9 +7,13 @@ Diseño de la base de datos.
 Archivo BD_veterinaria.sql:
 
 Lineas 2-12: Creacion de tablas
+
 Lineas 14-19: Verificacion
+
 Lineas 21-64: Insercion de datos
+
 Lineas 66-71: Verificacion de contenido de tablas.
+
 Lineas 73-86: Manipulacion de datos.
 
 ## Texto del proyecto:
