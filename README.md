@@ -6,11 +6,11 @@ Archivo MERN_BD_Veterinaria.pdf:
 Diseño de la base de datos.
 Archivo BD_veterinaria.sql:
 
-Lineas 2-12: Creacion de tablas.
-Lineas 14-19: Verificacion.
-Lineas 21-64: Insercion de datos.
-Lineas 66-71: Verificacion de contenido de tablas.
-Lineas 73-86: Manipulacion de datos.
+Lineas 2-12: Creacion de tablas. 
+Lineas 14-19: Verificacion. 
+Lineas 21-64: Insercion de datos. 
+Lineas 66-71: Verificacion de contenido de tablas. 
+Lineas 73-86: Manipulacion de datos. 
 
 ## Texto del proyecto:
 - La Clínica Veterinaria “Rayita” desea sistematizar la gestión de las atenciones que se efectúan a las mascotas. Para ello, se desea el diseño de la Base de Datos que permita satisfacer las necesidades de información para el manejo automático de las atenciones.
